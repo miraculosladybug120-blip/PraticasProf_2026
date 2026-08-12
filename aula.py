@@ -7,4 +7,4 @@ print("Vamos desenha")
 
 for x in range(10):
   print("-", end="")
-  main()
+  main():
