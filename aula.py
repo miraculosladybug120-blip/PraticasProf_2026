@@ -8,3 +8,5 @@ print("Vamos desenha")
 for x in range(10):
   print("-", end="")
   main()
+
+print(f'fim do programa {__main__}')
